@@ -1,0 +1,1 @@
+INSERT INTO task(title, priority, state) VALUES ('hacer la vista', 1, false);
